@@ -19,8 +19,8 @@
 .imagem-cabecalho{
     width: 50%;
 }
-
-.item-lita-cabecalho{
+.item-lista-cabecalho{
     display: inline-block;
-    margin: 0 16px;
+    margin: 20px;
 }
+
