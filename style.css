@@ -19,5 +19,5 @@
     width: 50%;
 }
 .item-lita-cabecalho{
-    display: inline-block;
+    display: inline-block; ,margin: 0 16px;
 }
