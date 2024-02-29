@@ -11,3 +11,6 @@
     background-color: var(--cor-fundo);
     color: var(--cor-fonte) ;
 }
+.imagem-cabecalho{
+    width: 20%;
+}
