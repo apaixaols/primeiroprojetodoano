@@ -72,3 +72,11 @@ h2{
   .estudante{
     background-color:#A165E8;
   }
+  .rodape{
+    background-color: #000000;
+    text-align: center;
+  }
+  .rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+  }
